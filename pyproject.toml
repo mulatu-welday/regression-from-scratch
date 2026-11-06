@@ -7,7 +7,7 @@ name = "gdlab"
 version = "0.1.0"
 description = "Linear regression and gradient-based optimizers from scratch with NumPy"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 dependencies = ["numpy>=1.22", "matplotlib>=3.5"]
 
