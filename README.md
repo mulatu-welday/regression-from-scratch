@@ -1,4 +1,5 @@
 # Regression from Scratch
+[![tests](https://github.com/mulatu-welday/regression-from-scratch/actions/workflows/ci.yml/badge.svg)](https://github.com/mulatu-welday/regression-from-scratch/actions/workflows/ci.yml)
 
 A small, well-tested NumPy library that fits linear (and ridge) regression two ways, with a closed-form
 **normal equation** and with **gradient-based optimizers** (GD, momentum, Adam, mini-batch SGD), plus a set of
